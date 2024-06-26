@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PL_TanachSearch/1.0.0": {
+        "dependencies": {
+          "Bll": "1.0.0"
+        },
+        "runtime": {
+          "PL_TanachSearch.dll": {}
+        }
+      },
+      "Bll/1.0.0": {
+        "dependencies": {
+          "DTO": "1.0.0",
+          "Dal": "1.0.0"
+        },
+        "runtime": {
+          "Bll.dll": {}
+        }
+      },
+      "Dal/1.0.0": {
+        "runtime": {
+          "Dal.dll": {}
+        }
+      },
+      "DTO/1.0.0": {
+        "runtime": {
+          "DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PL_TanachSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\Bll.deps.json
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\Bll.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\Bll.pdb
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\Dal.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\Dal.pdb
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.csproj.AssemblyReference.cache
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.AssemblyInfoInputs.cache
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.AssemblyInfo.cs
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.csproj.CopyComplete
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\refint\Bll.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\Bll.pdb
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\obj\Debug\net7.0\ref\Bll.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\DTO.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\Bll_layer\bin\Debug\net7.0\DTO.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qmCsqlKxHkYf2nFlLViGS6sIyz98MJaOHbcRm2shtXc=",
+  "Source": "TanachSearchAPI",
+  "BasePath": "_content/TanachSearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

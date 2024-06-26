@@ -1,0 +1,6 @@
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\DTO\bin\Debug\DTO.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\DTO\bin\Debug\DTO.pdb
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\DTO\obj\Debug\DTO.dll
+C:\Users\noaka\Documents\c#\TanachSearch\TanachSearch\DTO\obj\Debug\DTO.pdb
